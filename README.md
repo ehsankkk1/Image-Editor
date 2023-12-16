@@ -1,4 +1,3 @@
-<img width="1440" alt="image" src="https://github.com/ehsankkk1/Image-Editor/assets/102434828/760e9cfe-caab-4e49-b045-70f2a656a6d8">
 
 # Image Editor
 Welcome to the Image Editor repository! This versatile image editing tool provides a range of features to enhance and manipulate your images. Whether you're a professional photographer or just a hobbyist, this editor offers a variety of functions to meet your needs.
